@@ -1,0 +1,25 @@
+====== Kabuuang Talaan ======
+--------------------
+| Student 1
+| Pangalan: Jake Arwin G. Tiongson
+| Kurso: BSIT
+| Grado: 1.20
+| Language: Nivkh, Kawesqar, Pite Saami, Yup'ik, Erzya, Mari, Alyutor, Miyakoan
+--------------------
+
+--------------------
+| Student 2
+| Pangalan: Juan Carlo X. Dalisay
+| Kurso: BSCpE
+| Grado: 1.59
+| Language: Tagalog, English, Pangasinan
+--------------------
+
+--------------------
+| Student 3
+| Pangalan: Xavier Alphonse Benedix Jon T. Hulmangib
+| Kurso: BSLM
+| Grado: 1.10
+| Language: English, Ilocano, Tagalog, Spanish
+--------------------
+

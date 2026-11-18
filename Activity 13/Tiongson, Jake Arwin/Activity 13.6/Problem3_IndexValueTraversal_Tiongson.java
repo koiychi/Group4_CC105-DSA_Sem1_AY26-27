@@ -1,0 +1,9 @@
+public class Problem3_IndexValueTraversal_Tiongson {
+    public static void main(String[] args) {
+        String[] names = {"Alice", "Bob", "Charlie"};
+        System.out.println("Array elements with index:");
+        for (int i = 0; i < names.length; i++) {
+            System.out.println("Index " + i + " -> " + names[i]);
+        }
+    }
+}

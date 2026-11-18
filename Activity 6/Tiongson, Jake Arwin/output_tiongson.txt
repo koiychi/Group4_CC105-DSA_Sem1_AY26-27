@@ -1,0 +1,4 @@
+Hello, this is (not) my first time using BufferedWriter!
+BufferedWriter makes writing files easy and fast.
+My name is Jake...Just to be clear. Oh, and...
+By the way, these are my favorite languages in no particular order: Nivkh, Kawesqar, Yup'ik, Skolt Saami, Mari, Erzya, Haida, Pite Saami, Yakut, Miyakoan.

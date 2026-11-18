@@ -1,0 +1,5 @@
+Report Title: Weekly Summary
+* Users: 120
+* Errors: 0
+Current Languages: Nivkh, Kawesqar, Pite Sámi, Mari, Erzya, Miyakoan
+Administrator: Jake Tiongson
